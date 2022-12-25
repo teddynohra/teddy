@@ -1,2 +1,1 @@
-teddy
-nohra
+teddy nohra 1
